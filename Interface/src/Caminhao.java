@@ -18,11 +18,13 @@ public class Caminhao extends Veiculos{
 
     @Override
     public void exibirDados(){
-        System.out.println("Caminhão: ");
+        System.out.println("Caminhão:  ");
         super.exibirDados();
         System.out.println("Capacidade: " + getCapacidadeCarga());
         System.out.println("Numero Eixos: " + getNumeroEixos());
     }
+
+
 
 
 
