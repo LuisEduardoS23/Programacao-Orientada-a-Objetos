@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alunos_comVetor/Alunos_comVetor.iml" filepath="$PROJECT_DIR$/Alunos_comVetor/Alunos_comVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstração/Aula4_questao01/Aula4_questao01.iml" filepath="$PROJECT_DIR$/Abstração/Aula4_questao01/Aula4_questao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstração/Aula4_questao02/Aula4_questao02.iml" filepath="$PROJECT_DIR$/Abstração/Aula4_questao02/Aula4_questao02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstração/Aula4_questao03/Aula4_questao03.iml" filepath="$PROJECT_DIR$/Abstração/Aula4_questao03/Aula4_questao03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstração/Aula4_questao04/Aula4_questao04.iml" filepath="$PROJECT_DIR$/Abstração/Aula4_questao04/Aula4_questao04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios_Aula06/Exercicios_Aula06.iml" filepath="$PROJECT_DIR$/Exercicios_Aula06/Exercicios_Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herancas and stuff/Herancas and stuff.iml" filepath="$PROJECT_DIR$/Herancas and stuff/Herancas and stuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacao-Orientada-a-Objetos.iml" filepath="$PROJECT_DIR$/.idea/Programacao-Orientada-a-Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes e metodos abstratos/Questao01/Questao01.iml" filepath="$PROJECT_DIR$/Classes e metodos abstratos/Questao01/Questao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes e metodos abstratos/Questao02/Questao02.iml" filepath="$PROJECT_DIR$/Classes e metodos abstratos/Questao02/Questao02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios_Aula06/Questao_02/Questao_02.iml" filepath="$PROJECT_DIR$/Exercicios_Aula06/Questao_02/Questao_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios_Aula06/Questao_03/Questao_03.iml" filepath="$PROJECT_DIR$/Exercicios_Aula06/Questao_03/Questao_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstração/aula4_questao05/aula4_questao05.iml" filepath="$PROJECT_DIR$/Abstração/aula4_questao05/aula4_questao05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excessoes/erro01/erro01.iml" filepath="$PROJECT_DIR$/Tratamento de Excessoes/erro01/erro01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excessoes/erro02/erro02.iml" filepath="$PROJECT_DIR$/Tratamento de Excessoes/erro02/erro02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excessoes/erro03/erro03.iml" filepath="$PROJECT_DIR$/Tratamento de Excessoes/erro03/erro03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excessoes/erro04/erro04.iml" filepath="$PROJECT_DIR$/Tratamento de Excessoes/erro04/erro04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excessoes/erro05/erro05.iml" filepath="$PROJECT_DIR$/Tratamento de Excessoes/erro05/erro05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excessoes/erro06/erro06.iml" filepath="$PROJECT_DIR$/Tratamento de Excessoes/erro06/erro06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excessoes/erro08/erro08.iml" filepath="$PROJECT_DIR$/Tratamento de Excessoes/erro08/erro08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excessoes/erro09/erro09.iml" filepath="$PROJECT_DIR$/Tratamento de Excessoes/erro09/erro09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de Excessoes/erro10/erro10.iml" filepath="$PROJECT_DIR$/Tratamento de Excessoes/erro10/erro10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/exercicio01/exercicio01.iml" filepath="$PROJECT_DIR$/Heranca/exercicio01/exercicio01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/exercicio02/exercicio02.iml" filepath="$PROJECT_DIR$/Heranca/exercicio02/exercicio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/exercicio03/exercicio03.iml" filepath="$PROJECT_DIR$/Heranca/exercicio03/exercicio03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/exercicio04/exercicio04.iml" filepath="$PROJECT_DIR$/Heranca/exercicio04/exercicio04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/exercicio05/exercicio05.iml" filepath="$PROJECT_DIR$/Heranca/exercicio05/exercicio05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/exercicio06/exercicio06.iml" filepath="$PROJECT_DIR$/Heranca/exercicio06/exercicio06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/exercicio07/exercicio07.iml" filepath="$PROJECT_DIR$/Heranca/exercicio07/exercicio07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios_Aula06/prova/prova.iml" filepath="$PROJECT_DIR$/Exercicios_Aula06/prova/prova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/prova1/prova1.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/prova1/prova1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/prova2/prova2.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/prova2/prova2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/questao01/questao01.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/questao01/questao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/questao02/questao02.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/questao02/questao02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/questao03/questao03.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/questao03/questao03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/questao04/questao04.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/questao04/questao04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/questao04I_EstruturaDados/questao04I_EstruturaDados.iml" filepath="$PROJECT_DIR$/Interface/questao04I_EstruturaDados/questao04I_EstruturaDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/questao05/questao05.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/questao05/questao05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/questao06/questao06.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/questao06/questao06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/questao07/questao07.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/questao07/questao07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/questao08/questao08.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/questao08/questao08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/questao09/questao09.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/questao09/questao09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisaoJavaBasico/questao10/questao10.iml" filepath="$PROJECT_DIR$/revisaoJavaBasico/questao10/questao10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos e atributos Static/static01/static01.iml" filepath="$PROJECT_DIR$/Metodos e atributos Static/static01/static01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos e atributos Static/static02/static02.iml" filepath="$PROJECT_DIR$/Metodos e atributos Static/static02/static02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos e atributos Static/static03/static03.iml" filepath="$PROJECT_DIR$/Metodos e atributos Static/static03/static03.iml" />
+    </modules>
+  </component>
+</project>
